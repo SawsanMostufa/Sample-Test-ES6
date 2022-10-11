@@ -1,0 +1,10 @@
+ import {Employee} from "./classes.js";
+// // import * as lib from "./classes.js";
+// // import { Employee as e } from "./classes.js";
+// // import hamada from "./classes.js";
+// var emp = new Employee("menna",25,2000);
+// emp.print();
+//  console.log(emp);
+// var x = 100;
+var x = 5;
+var y = 10;
