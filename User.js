@@ -1,5 +1,4 @@
 
-/////////////////////classess////////
   class User{
     constructor(name,age){
         if(this.constructor==User){
@@ -13,9 +12,3 @@
     }
 }
 
-var x =10;
-console.log(x);
-// var u = new User("menna",25);
-// console.log(u);
-// var emp = new Empl
-////////////modules////////////////
